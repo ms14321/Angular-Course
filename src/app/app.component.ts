@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'AnglarCourse';
+  content = 'welcome to my page dhvskjvnskjvbh  aesfsff';
 }

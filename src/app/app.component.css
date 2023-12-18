@@ -1,0 +1,16 @@
+h1{
+    font: 1em sans-serif;
+    font-size: larger;
+    font-style: oblique;
+    color: aqua;
+    text-align: center;
+}
+p{
+    font-style: bold;
+    forced-color-adjust: pink;
+
+}
+
+.wrapper{
+    background-color: aquamarine;
+}
